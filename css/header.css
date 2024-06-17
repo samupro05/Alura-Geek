@@ -1,0 +1,22 @@
+.header-container{
+    background-color: #5D04D9;
+}
+
+.header-container img{
+    text-align: center;
+    padding-left: 26em;
+    padding-top: 5px;
+}
+
+.titulo {
+    position: relative;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    size: 24px;
+    line-height: 16px;
+    color: #E5E5E5;
+    margin-top: -2.9em;
+    padding-bottom: 1.5em;
+    padding-left: 32.7em;
+}
